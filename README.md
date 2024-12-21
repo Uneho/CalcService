@@ -14,10 +14,11 @@
 
 ### Инструкция по запуску проекта
 1. Склонируйте проект с GitHub:
-git clone <URL репозитория>
-cd calc_service
+git clone https://github.com/Uneho/CalcService.git
 
-2. Запустите сервер:
+2. cd calc_service
+
+3. Запустите сервер:
 go run ./cmd
 ---
 
