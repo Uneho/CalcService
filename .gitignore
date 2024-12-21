@@ -1,0 +1,24 @@
+# Сборочные файлы
+/bin/
+/obj/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Файлы IDE
+.vscode/
+.idea/
+
+# Кэш
+*.log
+*.tmp
+*.swp
+
+# Go-модули
+/go.sum
+/go.mod
+
+# Системные файлы
+.DS_Store
+Thumbs.db
